@@ -1,4 +1,14 @@
 # FPGA Tic Tac Toe Game
+
+Project Team:
+
+Emirhan Yılmaz Güney (@yilmaz0734)
+
+Mehmet Kurt (@mehmetkurt20)
+
+Tanel Gülerman (@Tanelglrmn)
+
+
 ## Intro
 This paper provides our implementation of a 2-D Strategy Game in FPGA by using Verilog HDL. In the development stage, we firstly created a game logic by using state machine method and then implemented it in our game controller module. After completing the game logic part, we created the interface between the game outputs and VGA screen for visualization of the board and the game statistics. In these processes, we used Verilog HDL documentations, VGA working principle papers, and the pin assignment sheets of Altera DE-1 SoC board which we used for the implementation of the game. In addition to these major concepts, we also created a debouncer module and VGA sync module since it is required to drive the VGA screen and implement the game logic successfully.
 
