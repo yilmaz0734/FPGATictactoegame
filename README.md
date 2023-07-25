@@ -30,5 +30,8 @@ The game controller consists of three states, namely IDLE, TRIPLAYS and CIRPLAYS
 
 ![alt text](/img/state.png)
 
+## Working Space 
+
+<img src="img/wspace.jpg" width = "576" height = "1024">
 
 
